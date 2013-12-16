@@ -6,4 +6,4 @@
 
 ## Jamming
 
-## Known Threats
+## Other Threats
