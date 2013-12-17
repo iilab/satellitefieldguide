@@ -24,7 +24,7 @@ Terrestrial jamming happens at the receiving (end user) end. The jammer sets up 
 
 
 #### Mitigations
-If you might be in an area where terrestrial jamming occurs it can be mitigated by placing antennae so they can 'see' the sattelite but not much else of the sky, because it is blocked by 
+If you might be in an area where terrestrial jamming occurs it can be mitigated by placing the antenna so it can 'see' the satellite but not much else of the sky, because it is blocked by surrounding buildings or walls. 
 
 
 ### Other Threats
