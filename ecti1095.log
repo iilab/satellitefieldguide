@@ -1,0 +1,67 @@
+This is METAFONT, Version 2.718281 (TeX Live 2013) (base=mf 2013.12.16)  17 DEC 2013 12:56
+**\mode:=ljfour; mag:=1+0/600; nonstopmode; input ecti1095
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/ecti1095.mf
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exbase.mf)
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/ecti.mf
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/extextit.mf
+ Ok
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exaccess.mf
+ Ok)
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/expseudo.mf
+ Ok)
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exileast.mf
+ Ok [158] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+[183] [184] [185] [186] [187] [188])
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exilwest.mf
+ Ok [224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+[248] [249] [250] [251] [252] [253] [254] [255])
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exruwest.mf
+ Ok [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203]
+[204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215]
+[216] [217] [218] [219] [220] [221] [222] [223])
+(/usr/local/texlive/2013basic/texmf-dist/fonts/source/jknappen/ec/exrueast.mf
+ Ok [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+! Interruption.
+<to be read again> 
+                   x
+z->begingroup(x
+               (SUFFIX2),y(SUFFIX2))endgroup
+<to be read again> 
+                   )
+put_accent->...j]r-z[ii]r}..{z[ii]l-z[jj]l}z[jj]l)
+                                                  ;else:pickup.fine.nib;fill...
+<for(%CAPSULE11112)> ...hpos_corr=-1.5u;put_accent
+                                                  ;hpos_corr=1.5u;put_accent...
+l.777 repeat_once
+                 ;
+? 
+! Emergency stop.
+<to be read again> 
+                   x
+z->begingroup(x
+               (SUFFIX2),y(SUFFIX2))endgroup
+<to be read again> 
+                   )
+put_accent->...j]r-z[ii]r}..{z[ii]l-z[jj]l}z[jj]l)
+                                                  ;else:pickup.fine.nib;fill...
+<for(%CAPSULE11112)> ...hpos_corr=-1.5u;put_accent
+                                                  ;hpos_corr=1.5u;put_accent...
+l.777 repeat_once
+                 ;
+End of file on the terminal!
+
+ 
+Here is how much of METAFONT's memory you used:
+ 570 strings out of 5274
+ 6712 string characters out of 69934
+ 44681 words of memory out of 5000000
+ 1477 symbolic tokens out of 9500
+ 13i,79n,0r,23p,232b stack positions out of 300i,300n,1000r,150p,200000b
+ 
+(You used 26w,14h,5d,28i,0l,0k,0e,0p metric file positions
+  out of 256w,16h,16d,64i,15000l,2500k,256e,60p)
+Font metrics written on ecti1095.tfm.
+Output written on ecti1095.600gf (116 characters, 30344 bytes).

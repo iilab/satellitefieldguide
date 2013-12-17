@@ -1,0 +1,7 @@
+---
+edition:    0.1
+language:   en
+author:     iilab / GreenHost
+title:      Satellite Field Guide
+cover:      assets/images/cover.jpg
+stylesheet: assets/stylesheets/default.css

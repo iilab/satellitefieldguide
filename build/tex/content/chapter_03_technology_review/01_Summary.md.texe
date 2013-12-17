@@ -1,0 +1,40 @@
+ \begin{landscape} 
+
+\section{Summary Table}
+\label{summarytable}
+
+\begin{table}[htbp]
+\begin{minipage}{\linewidth}
+\setlength{\tymax}{0.5\linewidth}
+\centering
+\small
+\begin{tabulary}{\textwidth}{@{}LCCCCLLLLLLL@{}} \toprule
+Tech&\multicolumn{2}{c}{VSAT - SCPC}&\multicolumn{3}{c}{VSAT MCPC}&\multicolumn{2}{c}{GSM Derived}&\multicolumn{2}{c}{Low orbit}&&\\
+Provider&?&?&SES&EutelSat&Exede&Inmarsat (BGAN)&Thuraya&Iridium&GlobalStar&&\\
+\midrule
+\textbf{Key Benefits}&&&&&&&&&&&\\
+\textbf{Key Weaknesses}&&&&&&&&&&&\\
+
+\midrule
+\textbf{Coverage}&&&&&&&&&&&\\
+\textbf{Bandwidth}&&&&&&&&&&&\\
+
+\midrule
+\textbf{Setup Costs}&&&&&&&&&&&\\
+\textbf{Recurring Costs}&&&&&&&&&&&\\
+
+\midrule
+\textbf{Antenna Size}&\multicolumn{5}{c}{50cm -$>$ 2m}&\multicolumn{2}{c}{20cm - 50cm}&\multicolumn{3}{c}{Small Antenna}&\\
+\textbf{Power Consumption}&\multicolumn{5}{c}{1w -$>$ 2w}&\multicolumn{4}{c}{}&&\\
+
+\midrule
+\textbf{Orbit}&\multicolumn{2}{c}{Geosync}&\multicolumn{5}{c}{Geosync}&\multicolumn{2}{c}{Low orbit}&&\\
+\textbf{Transport}&FDMA&FDMA&TDMA (DVB)&TDMA (DVB)&TDMA (DVB)&UMTS\slash GSM&UMTS\slash GSM&UMTS\slash GSM&CDMA&&\\
+
+\bottomrule
+
+\end{tabulary}
+\end{minipage}
+\end{table}
+
+ \end{landscape} 

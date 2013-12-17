@@ -1,10 +1,8 @@
-# Satellite Security
+### Vulnerabilities
 
-## Vulnerabilities
+### Surveillance
 
-## Surveillance
-
-## Jamming
+### Jamming
 Jamming is the practise of willingfully blocking or distorting the signal by introducing noise (another meaningless signal). Satellite Jamming is internationally condemned and forbidden, but still happens in a lot of areas. Examples are Iran ...
 
 Jamming is the mixing of the meaningful signal of the sender with another strong signal that is meaningless, so the receiver can not make anything of the original signal. It is like someone shouting through your conversation in the real world.
@@ -29,4 +27,4 @@ Terrestrial jamming happens at the receiving (end user) end. The jammer sets up 
 If you might be in an area where terrestrial jamming occurs it can be mitigated by placing antennae so they can 'see' the sattelite but not much else of the sky, because it is blocked by 
 
 
-## Other Threats
+### Other Threats

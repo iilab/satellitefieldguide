@@ -1,0 +1,31 @@
+\section{Vulnerabilities}
+\label{vulnerabilities}
+
+\section{Surveillance}
+\label{surveillance}
+
+\section{Jamming}
+\label{jamming}
+
+Jamming is the practise of willingfully blocking or distorting the signal by introducing noise (another meaningless signal). Satellite Jamming is internationally condemned and forbidden, but still happens in a lot of areas. Examples are Iran {\ldots}
+
+Jamming is the mixing of the meaningful signal of the sender with another strong signal that is meaningless, so the receiver can not make anything of the original signal. It is like someone shouting through your conversation in the real world.
+
+This can happen at two points in the process, First it can happen at the satellite, this is called \emph{orbital jamming}. Secondly it can happen at the receiver side, then it will be called \emph{Terrestrial(on earth) jamming}.
+
+\subsection{Orbital jamming}
+\label{orbitaljamming}
+
+This acts by having a rogue groundstation that points a high power beam at teh 
+
+\subsubsection{Mitigations}
+\label{mitigations}
+
+\subsection{Terrestrial jamming}
+\label{terrestrialjamming}
+
+\subsubsection{Mitigations}
+\label{mitigations}
+
+\section{Other Threats}
+\label{otherthreats}
