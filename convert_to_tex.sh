@@ -52,6 +52,7 @@ cat > $DIR/main.tex <<EOF
 Satellite Field Guide
 
 Version: $DATE
+
 \includegraphics{assets/images/cover.jpg}
 \hypersetup{%
     pdfborder = {0 0 0}
