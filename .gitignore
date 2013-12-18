@@ -1,4 +1,2 @@
-final/*.epub
-final/*.mobi
-final/*.pdf
+build/*
 .DS_STORE
