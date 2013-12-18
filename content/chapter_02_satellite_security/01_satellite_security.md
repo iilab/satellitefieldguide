@@ -18,10 +18,8 @@ Orbital jamming works by having a rogue groundstation that points a high power b
 #### Mitigations
 There is nothing an end user can do to orbital jamming, it is a problem that resides with the satellite provider. As it affects all the users on the same channel they will notice quickly. Jamming is against ITU regulations, and countries will not openly acnowledge they are doing it, it is quite embarrassing, and when called out they sometimes just stop doing it.{can we back that up?} If not sometimes the provider can mitigate the problem by slightly repositioning the satellite.
 
-
 ### Terrestrial jamming
 Terrestrial jamming happens at the receiving (end user) end. The jammer sets up a meaningless signal that distorts the original signal, but this time close to the end user. This works best in populated areas with a lot of satellite connections. Its effectiveness depends on the local circumstances, the power of the transmitters used and the placement of the satellite equipment.
-
 
 #### Mitigations
 Again it might be hard to mitigate this, if your antenna is easily movable If you might be in an area where terrestrial jamming occurs it can be mitigated by placing the antenna so it can 'see' the satellite but not much else of the sky, because it is blocked by surrounding buildings or walls. 
