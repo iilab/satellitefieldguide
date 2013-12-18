@@ -8,7 +8,7 @@ BOOK_DIR=${BUILD_DIR}/.
 # Only set if not overriden by an environment variable
 DATE?=`date +%F`
 
-all: latex-pdf combined
+all: clean install
 
 ${BUILD_DIR}:
 	mkdir ${BUILD_DIR}
