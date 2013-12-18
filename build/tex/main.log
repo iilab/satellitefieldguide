@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.12.16)  17 DEC 2013 16:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.12.16)  17 DEC 2013 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,19 +566,19 @@ LaTeX Info: Redefining \nameref on input line 25.
 
 LaTeX Info: Redefining \Ref on input line 25.
 
-<assets/images/cover.jpg, id=168, 702.625pt x 429.605pt>
+<assets/images/cover.jpg, id=180, 702.625pt x 429.605pt>
 File: assets/images/cover.jpg Graphic file (type jpg)
 
 <use assets/images/cover.jpg>
-Package pdftex.def Info: assets/images/cover.jpg used on input line 29.
+Package pdftex.def Info: assets/images/cover.jpg used on input line 30.
 (pdftex.def)             Requested size: 702.62328pt x 429.60394pt.
 
-Overfull \hbox (390.89363pt too wide) in paragraph at lines 28--33
-[]\T1/cmr/m/n/10.95 Version: 2013-12-17 []
+Overfull \hbox (295.2556pt too wide) in paragraph at lines 30--34
+[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
 
  []
 
@@ -586,7 +586,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 
 {/usr/local/texlive/2013basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 assets/images/cover.jpg>]
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 36.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 37.
 
 (/usr/local/texlive/2013basic/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -626,105 +626,130 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Support for \float@addtolists may be removed from
 (scrbook)              `scrbook' soon .
 
-(build/tex/content/chapter_00_executive_summary/01_executive_summary.md.tex)
+(build/tex/content/chapter_00_executive_summary/01_executive_summary.md.tex
 [5] [6
+
+
+] [7] [8]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 8.
+
+) [9] [10
 
 
 ]
 Chapter 2.
 
 (build/tex/content/chapter_01_satellite_fundamentals/01_satellite_fundamentals.
-md.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 19.
+md.tex [11]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
  (/usr/local/texlive/2013basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 
-[7] [8
+[12] [13
 
-]) [9
-
-] [10
-
+]) [14
 
 ]
 Chapter 3.
-(build/tex/content/chapter_02_satellite_security/01_satellite_security.md.tex)
-[11] [12
+(build/tex/content/chapter_02_satellite_security/01_satellite_security.md.tex
+[15
 
 
-]
+]) [16]
 Chapter 4.
-(build/tex/content/chapter_03_technology_review/01_Summary.md.tex [13]
-Overfull \hbox (6.95152pt too wide) in paragraph at lines 36--36
- []\T1/cmr/m/n/10 FDMA| 
- []
+(build/tex/content/chapter_03_technology_review/01_Summary.md.tex [17
 
-
-Overfull \hbox (6.95152pt too wide) in paragraph at lines 36--36
- []\T1/cmr/m/n/10 FDMA| 
- []
-
-
-Overfull \hbox (3.99306pt too wide) in paragraph at lines 36--37
- [][] 
- []
-
-[14
-
-]) (build/tex/content/chapter_03_technology_review/02_VSAT.md.tex) [15
 
 ]
-[16
+Overfull \hbox (0.99025pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 EMEA| 
+ []
 
+
+Overfull \hbox (1.36159pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 Global| 
+ []
+
+
+Overfull \hbox (1.62541pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 Usage- 
+ []
+
+
+Overfull \hbox (5.1559pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 UMTS/ 
+ []
+
+
+Overfull \hbox (1.05453pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 UMTS/ 
+ []
+
+
+Overfull \hbox (3.9304pt too wide) in paragraph at lines 28--28
+ []\T1/cmr/m/n/10 CDMA| 
+ []
+
+[18
+
+] [19]) (build/tex/content/chapter_03_technology_review/02_VSAT.md.tex)
+[20
 
 ]
 Chapter 5.
 (build/tex/content/chapter_04_annexes/01_experiments.md.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
- [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
+ [21
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
 
 (build/tex/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 9844 strings out of 494536
- 146914 string characters out of 6167445
- 265136 words of memory out of 5000000
- 12827 multiletter control sequences out of 15000+600000
- 21325 words of font info for 60 fonts, out of 8000000 for 9000
+ 9861 strings out of 494536
+ 147198 string characters out of 6167445
+ 265312 words of memory out of 5000000
+ 12831 multiletter control sequences out of 15000+600000
+ 25287 words of font info for 70 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 43i,13n,51p,561b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,51p,913b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/jun/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/
 ecti1095.600pk> </Users/jun/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour
 /jknappen/ec/ecbx1000.600pk> </Users/jun/Library/texlive/2013basic/texmf-var/fo
 nts/pk/ljfour/jknappen/ec/ecti1000.600pk> </Users/jun/Library/texlive/2013basic
 /texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </Users/jun/Library/texl
-ive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </Users/jun
-/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk
+ive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </Users/jun
+/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk
 > </Users/jun/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/e
 csl1095.600pk> </Users/jun/Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/
-jknappen/ec/ecbx1095.600pk> </Users/jun/Library/texlive/2013basic/texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </Users/jun/Library/texlive/2013basic/
-texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </Users/jun/Library/texli
-ve/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk></usr/local/t
-exlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loc
-al/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on build/tex/main.pdf (17 pages, 214271 bytes).
+jknappen/ec/ecsx1200.600pk> </Users/jun/Library/texlive/2013basic/texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </Users/jun/Library/texlive/2013basic/
+texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </Users/jun/Library/texli
+ve/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </Users/jun/
+Library/texlive/2013basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk>
+</usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on build/tex/main.pdf (21 pages, 232988 bytes).
 PDF statistics:
- 713 PDF objects out of 1000 (max. 8388607)
- 332 compressed objects within 4 object streams
- 62 named destinations out of 1000 (max. 500000)
- 334 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 792 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,41 +1,44 @@
 \BOOKMARK [0][-]{chapter.1}{Executive summary}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Summary}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Why this guide}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Who started it}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.4}{How to use it}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Satellite fundamentals}{}% 6
-\BOOKMARK [1][-]{section.2.1}{Fundamendals}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.1.1}{Overview}{section.2.1}% 8
-\BOOKMARK [2][-]{subsection.2.1.2}{Signal}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.3}{Voice}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.4}{Data}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.5}{TV}{section.2.1}% 12
-\BOOKMARK [2][-]{subsection.2.1.6}{Radio}{section.2.1}% 13
-\BOOKMARK [2][-]{subsection.2.1.7}{Positioning}{section.2.1}% 14
-\BOOKMARK [1][-]{section.2.2}{Key Technologies}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.1}{VSAT}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.2}{GSM derived}{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.3}{Low Orbit}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.4}{GPS}{section.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.5}{Other Technologies}{section.2.2}% 20
-\BOOKMARK [0][-]{chapter.3}{Satellite security}{}% 21
-\BOOKMARK [1][-]{section.3.1}{Vulnerabilities}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{Surveillance}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.3}{Jamming}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.1}{Orbital jamming}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.2}{Terrestrial jamming}{section.3.3}% 26
-\BOOKMARK [1][-]{section.3.4}{Other Threats}{chapter.3}% 27
-\BOOKMARK [0][-]{chapter.4}{Technology review}{}% 28
-\BOOKMARK [1][-]{section.4.1}{Summary Table}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.2}{VSAT}{chapter.4}% 30
-\BOOKMARK [2][-]{subsection.4.2.1}{Use cases}{section.4.2}% 31
-\BOOKMARK [2][-]{subsection.4.2.2}{Benefits}{section.4.2}% 32
-\BOOKMARK [2][-]{subsection.4.2.3}{Threats}{section.4.2}% 33
-\BOOKMARK [2][-]{subsection.4.2.4}{Geography}{section.4.2}% 34
-\BOOKMARK [2][-]{subsection.4.2.5}{Equipment}{section.4.2}% 35
-\BOOKMARK [2][-]{subsection.4.2.6}{Antenna}{section.4.2}% 36
-\BOOKMARK [2][-]{subsection.4.2.7}{Power}{section.4.2}% 37
-\BOOKMARK [2][-]{subsection.4.2.8}{GPS}{section.4.2}% 38
-\BOOKMARK [0][-]{chapter.5}{Annexes}{}% 39
-\BOOKMARK [1][-]{section.5.1}{Annexes}{chapter.5}% 40
-\BOOKMARK [2][-]{subsection.5.1.1}{Experiments}{section.5.1}% 41
+\BOOKMARK [-1][-]{part.1}{Executive Summary}{}% 2
+\BOOKMARK [0][-]{section.1.1}{Summary}{part.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Why this guide}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Who started it}{section.1.1}% 5
+\BOOKMARK [1][-]{section.1.4}{How to use it}{section.1.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Satellite fundamentals}{part.1}% 7
+\BOOKMARK [1][-]{section.2.1}{Fundamendals}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{Overview}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{Signal}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.3}{Voice}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.4}{Data}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.5}{TV}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.6}{Radio}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.7}{Positioning}{section.2.1}% 15
+\BOOKMARK [1][-]{section.2.2}{Key Technologies}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.1}{VSAT}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.2}{GSM derived}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.3}{Low Orbit}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.4}{GPS}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.5}{Other Technologies}{section.2.2}% 21
+\BOOKMARK [0][-]{chapter.3}{Satellite security}{part.1}% 22
+\BOOKMARK [1][-]{section.3.1}{Vulnerabilities}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{Surveillance}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Jamming}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.4}{Orbital jamming}{chapter.3}% 26
+\BOOKMARK [2][-]{subsection.3.4.1}{Mitigations}{section.3.4}% 27
+\BOOKMARK [1][-]{section.3.5}{Terrestrial jamming}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.5.1}{Mitigations}{section.3.5}% 29
+\BOOKMARK [1][-]{section.3.6}{Other Threats}{chapter.3}% 30
+\BOOKMARK [0][-]{chapter.4}{Technology review}{part.1}% 31
+\BOOKMARK [1][-]{section.4.1}{Summary Table}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.2}{VSAT}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Use cases}{section.4.2}% 34
+\BOOKMARK [2][-]{subsection.4.2.2}{Benefits}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.3}{Threats}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.4}{Geography}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.5}{Equipment}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.6}{Antenna}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.7}{Power}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.8}{GPS}{section.4.2}% 41
+\BOOKMARK [0][-]{chapter.5}{Annexes}{part.1}% 42
+\BOOKMARK [1][-]{section.5.1}{Annexes}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.1.1}{Experiments}{section.5.1}% 44
