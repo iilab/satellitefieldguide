@@ -2,4 +2,5 @@ build/*
 build/*/
 build/**
 build/*.*
+*.sublime-*
 .DS_STORE

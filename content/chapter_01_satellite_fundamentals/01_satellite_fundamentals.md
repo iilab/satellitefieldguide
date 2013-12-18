@@ -48,18 +48,18 @@ Bandwidth
 
 <!-- \begin{landscape} -->
 
-Criteria \ Tech         |     VSAT       |   GSM Derived  |    Low orbit   |     *GPS*
-------------------------|:--------------:|:--------------:|:--------------:|:--------------:
-**Key Benefits**      | | | | |
-**Key Weaknesses**    | | | | | 
-**Setup Costs**       | | | |  Low
-**Recurring Costs**   | | | |  None/Low
-**Bandwidth**         | | | | |
-**Antenna Size**      | 50cm -> 2m     | 20cm -> 50cm   | Small Antenna  | *Very Small*   
-**Power Consumption** | 1w -> 2w       | 1w -> 2w       | | |  
-**Orbit**             | Geosync        | Geosync        | Low orbit      | *Low orbit*    
-**Transport**         | FDMA/TDMA (DVB)| UMTS/GSM       | GSM/CDMA       | |                
-**Providers**         | EutelSat / SES | BGAN / Thuraya | Iridium        | |                
+| Criteria / Tech       | VSAT                       | GSM Derived                       | Low orbit        | *GPS*            |
+| :--------------:      | :--------------:           | :--------------:                  | :--------------: | :--------------: |
+| **Key Benefits**      | Flexible bandwidth options | Works anywhere, battery, portable |                  |                  |
+| **Key Weaknesses**    |                            |                                   |                  |                  |
+| **Setup Costs**       |                            |                                   |                  | Low              |
+| **Recurring Costs**   |                            |                                   |                  | None/Low         |
+| **Bandwidth**         |                            |                                   |                  |                  |
+| **Antenna Size**      | 50cm -> 2m                 | 20cm -> 50cm                      | Small Antenna    | *Very Small*     |
+| **Power Consumption** | 1w -> 2w                   | 1w -> 2w                          |                  |                  |
+| **Orbit**             | Geosync                    | Geosync                           | Low orbit        | *Low orbit*      |
+| **Transport**         | FDMA/TDMA (DVB)            | UMTS/GSM                          | GSM/CDMA         |                  |
+| **Providers**         | EutelSat / SES             | BGAN / Thuraya                    | Iridium          |                  |
 [Major Technology Types]
 
 <!-- \end{landscape} -->
@@ -73,5 +73,15 @@ Criteria \ Tech         |     VSAT       |   GSM Derived  |    Low orbit   |    
 #### GPS
 
 ####  Other Technologies
+
+### Battery
+
+#### External Batteries
+
+People build their own all the time. Upset converter (from Cart) 12V DC Car batter (laptop charger for car use). Most of satellite is 18V DC. (Loss 3% to 5%).
+
+Most people make the mistake of having a DC/AC converter (because it's cheap). Double losses if DC/AC -> AC/DC. (about 30% loss). It's also not very nice for the equipment because the signal is a block wave (rather than a sine wave).
+
+What you want is a battery that has a battery charger or battery conditioner. UPS. (Home build is car battery connected to a car battery charger [needs conditioning - will sense that its fully charged] + upset converter (cigarette + laptop) +  )
 
 
