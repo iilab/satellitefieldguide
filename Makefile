@@ -33,9 +33,9 @@ install: combined latex-pdf ${DIST_DIR}
 	cp ${TEX_DIR}/main.pdf ${BOOK_DIR}/../${DIST_DIR}/satellite-field-guide-${DATE}.pdf
 	cp ${BOOK_DIR}/book.md ${BOOK_DIR}/../${DIST_DIR}/satellite-field-guide-${DATE}.md
 #	./convert_to_epub.sh
-	./convert_to_html.sh ${CONTENT_DIR}
-	(cd ${DIST_DIR}; zip -9qr satellite-field-guide-${DATE}-html.zip satellite-field-guide-${DATE})
-	(cd ${DIST_DIR}; sha256sum satellite-field-guide-${DATE}.* satellite-field-guide-${DATE}-html.zip > SHA256SUM)
+#	./convert_to_html.sh ${CONTENT_DIR}
+#	(cd ${DIST_DIR}; zip -9qr satellite-field-guide-${DATE}-html.zip satellite-field-guide-${DATE})
+#	(cd ${DIST_DIR}; sha256sum satellite-field-guide-${DATE}.* satellite-field-guide-${DATE}-html.zip > SHA256SUM)
 
 clean: ${BUILD_DIR}
 	rm -Rf ${BUILD_DIR}/*
