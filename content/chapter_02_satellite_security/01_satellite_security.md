@@ -1,8 +1,11 @@
+TODO:
+ - IMBE (Improved Multi-Band Excitation) voice codec
+
 ### Vulnerabilities
 
-### Surveillance
+#### Surveillance
 
-### Jamming
+#### Jamming
 Jamming is the practise of willingfully blocking or distorting the signal by introducing noise (another meaningless signal). Satellite Jamming is internationally condemned and forbidden, but still happens in a lot of areas. Examples are Iran ...
 
 Jamming is the mixing of the meaningful signal of the sender with another strong signal that is meaningless, so the receiver can not make anything of the original signal. It is like someone shouting through your conversation in the real world.
@@ -12,7 +15,7 @@ It must be said that it is hard, if not impossible, for the end user to know wha
 
 Jamming is mostly used for blocking television broadcasting. There are however also instances known where satellite telephony was jammed {reference}
 
-### Orbital jamming
+#### Orbital jamming
 Orbital jamming works by having a rogue groundstation that points a high power beam at the satellite, the sattelite, (being a passive attenuator) passes this on to all the end users, their equipment will show no signal because of the noise.
 
 #### Mitigations

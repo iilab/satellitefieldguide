@@ -2,38 +2,50 @@ Satellite Field Guide
 =====================
 Version: 2013-12-18
 
-Ucontent/executiveU summary
-===========================
+Executive summary
+=================
+
+### Summary
 
 The "Satellite Field Guide" publication seeks to educate NGOs, activists, media organisations and their donors as well as and technologists who use or are considering the use of satellite technologies for their operations.
 
 It gives access to technical knowledge in an easy to understand manner, making ample use of infographics and draws on a range of existing technological expertise and research literature. It also makes available an initial series of testing protocols in addition to their results in order to promote a better understanding of satellite technologies from a security and privacy angle and support the emergence of evidence-driven awareness raising about existing issues.
 
-### Summary
+TODO:
+ * Include Creative Commons license
+ * Include Disclaimers for brand names and logo.
+ * Facilitate the reuse of the material in presentation format.
+ * Link/associate to a wiki for more expert data.
+
+### Why this guide
 
 This field guide was created as a resource for Human Rights defenders, Journalists and Activists,NGOs and donor organizations working with satellite technology in the field or wishing to deploy such tools.
 
-### Why this guide
+### Why Satellite communications?
+
+Last mile.
+Can be mobile, transportable.
+
 
 ### Who started it
 
 ### How to use it
 
 
-Ucontent/satelliteU fundamentals
-================================
+Satellite fundamentals
+======================
+
+TODO:
+ * Key components of signal flow. Terminals, Antennas, LNB/BUC, Satellite (Orbits), Hubs. 
+ * Visual with key components at "scale".
+ *  Ideas for structure:
+    *  Space / Ground / In Between
+    *  Operators / Providers / Terminals
+ * Mobile Satellite Service / Fixed Satellite Service
 
 ### Overview
 
 Satellite equipment is basically operating on the same principles of any other radio equipment. There is equipment that only recieves and equipment that transmits and receives. Receive only equipment are mostly Television, radio and GPS-only devices. There used to be products that would use satellite for internet download and ISDN (telephone) for the upload, but these are not actively sold anymore.
-
-Key components of signal flow. Terminals, Antennas, LNB/BUC, Satellite (Orbits), Hubs. 
-
-Visual with key components at "scale".
-
-Ideas for structure:
- - Space / Ground / In Between
- - Operators / Providers / Terminals
 
 ### Fundamendals
 
@@ -44,10 +56,19 @@ There are two main types of satellites in orbit that offer commercial services. 
 
 The other type are so called low orbit satellites these arelcirceling the earth at a height between only  300 and 2000 kilometer. At this height a satellite can not stay in one place, it circles the earth at high speed. The most used network of these kind of satellites is the GPS network. Another one is the Iridium phone network. Because these satellites move around you do not have to point an antenna at them, but just generally have to have a clear view of the sky when operating the device.
 
+##### Satellite Antennas
+
+###### Spot Beams
+
+
+
 #### On the ground
 
 ##### Antennas
 Antennas come in a lot of different forms. the 3 types most commonly seen with satellite technology (small to large: are the dipole (portable sat phones), the panel antenna either integrated in the unit (like bgan) or seperate, and most commonly seen the dish antenna. With a dish antenna the dish is actually just a reflector that bounces the radio waves coming from the satellite to a very small antenna that is in the head (sometimes called BUC or LNB) mounted on the dish. 
+
+TODO:
+ * Wider antennas means focusing the power more.
 
 ##### Antenna placement
 point it at the bird and do it precise, do not forget polarization if applicable
@@ -58,10 +79,13 @@ point it at the bird and do it precise, do not forget polarization if applicable
 
 Signal to Noise vs Frequency/Power/Antenna Size
 
-Bandwidth
+##### Distance and Obstacles
 
-* Advanced considerations
-	* Spot beams
+TODO:
+ * Water resonance (>2.4GHz), Rain fade.
+ * More noise in high frequencies
+
+##### Bandwidth and Contention
 
 ##### Applications
 
@@ -118,14 +142,17 @@ What you want is a battery that has a battery charger or battery conditioner. UP
 
 
 
-Ucontent/satelliteU security
-============================
+Satellite security
+==================
+
+TODO:
+ - IMBE (Improved Multi-Band Excitation) voice codec
 
 ### Vulnerabilities
 
-### Surveillance
+#### Surveillance
 
-### Jamming
+#### Jamming
 Jamming is the practise of willingfully blocking or distorting the signal by introducing noise (another meaningless signal). Satellite Jamming is internationally condemned and forbidden, but still happens in a lot of areas. Examples are Iran ...
 
 Jamming is the mixing of the meaningful signal of the sender with another strong signal that is meaningless, so the receiver can not make anything of the original signal. It is like someone shouting through your conversation in the real world.
@@ -135,7 +162,7 @@ It must be said that it is hard, if not impossible, for the end user to know wha
 
 Jamming is mostly used for blocking television broadcasting. There are however also instances known where satellite telephony was jammed {reference}
 
-### Orbital jamming
+#### Orbital jamming
 Orbital jamming works by having a rogue groundstation that points a high power beam at the satellite, the sattelite, (being a passive attenuator) passes this on to all the end users, their equipment will show no signal because of the noise.
 
 #### Mitigations
@@ -151,8 +178,8 @@ Again it might be hard to mitigate this, if your antenna is easily movable If yo
 ### Other Threats
 
 
-Ucontent/technologyU review
-===========================
+Technology review
+=================
 
 <!-- \begin{landscape} -->
 
@@ -161,7 +188,7 @@ Ucontent/technologyU review
 |         Tech        |                     Single Channel VSAT                      |                              Multiple Channel VSAT                              |||                 GSM Derived                  ||                             Low orbit                             ||
 |       Provider      |                  Multiple (see Chapter 2.x)                  |            SES            |          EutelSat         |           Exede           |    Inmarsat (BGAN)     |        Thuraya         |             Iridium              |            GlobalStar            |
 | ------------------- | :----------------------------------------------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :--------------------: | :--------------------: | :------------------------------: | :------------------------------: |
-| **Key Benefits**    | Flexible bandwidth options, zero contention with other users |                Flexible bandwidth options, medium recurring cost                |||  Broad coverage, built-in battery, portable  ||     Broad coverage, built-in battery, portable, lower latency     ||
+| **Key Benefits**    | Flexible bandwidth options, no contention with other users |                Flexible bandwidth options, medium recurring cost                |||  Broad coverage, built-in battery, portable  ||     Broad coverage, built-in battery, portable, lower latency     ||
 | **Key Weaknesses**  |                     High recurring cost                      |                           Contention with other users                           |||     Usage-based pricing, lower bandwidth     ||  Usage-based pricing, lower bandwidth, slightly lower reliability ||
 | **Coverage**        |                            Global                            |           Global          |            EMEA           |             US            |         Global         |          EMEA          |              Global              |              Global              |
 | **Bandwidth**       |                          0-20+ mbps                          |                                    0-20 mbps                                    |||                   384 kbps                   ||                              2.4 kbps                             ||
@@ -193,12 +220,22 @@ Ucontent/technologyU review
 
 #### GPS
 
-Ucontent/annexes
-================
+Annexes
+=======
 
 ### Annexes
 
 #### Experiments
 
 
+
+### References
+
+#### Satellite
+
+http://www.sia.org/first-responders-guide/
+
+#### Digital Security
+
+security in a box
 
