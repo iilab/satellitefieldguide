@@ -1,13 +1,14 @@
-### Overview
-
-Satellite equipment is basically operating on the same principles of any other radio equipment. There is equipment that only recieves and equipment that transmits and receives. Receive only equipment are mostly Television, radio and GPS-only devices. There used to be products that would use satellite for internet download and ISDN (telephone) for the upload, but these are not actively sold anymore.
-
-TODO
+TODO:
  * Key components of signal flow. Terminals, Antennas, LNB/BUC, Satellite (Orbits), Hubs. 
  * Visual with key components at "scale".
  *  Ideas for structure:
     *  Space / Ground / In Between
     *  Operators / Providers / Terminals
+ * Mobile Satellite Service / Fixed Satellite Service
+
+### Overview
+
+Satellite equipment is basically operating on the same principles of any other radio equipment. There is equipment that only recieves and equipment that transmits and receives. Receive only equipment are mostly Television, radio and GPS-only devices. There used to be products that would use satellite for internet download and ISDN (telephone) for the upload, but these are not actively sold anymore.
 
 ### Fundamendals
 
@@ -18,9 +19,9 @@ There are two main types of satellites in orbit that offer commercial services. 
 
 The other type are so called low orbit satellites these arelcirceling the earth at a height between only  300 and 2000 kilometer. At this height a satellite can not stay in one place, it circles the earth at high speed. The most used network of these kind of satellites is the GPS network. Another one is the Iridium phone network. Because these satellites move around you do not have to point an antenna at them, but just generally have to have a clear view of the sky when operating the device.
 
-#### Satellite Antennas
+##### Satellite Antennas
 
-##### Spot Beams
+###### Spot Beams
 
 
 
@@ -28,6 +29,9 @@ The other type are so called low orbit satellites these arelcirceling the earth 
 
 ##### Antennas
 Antennas come in a lot of different forms. the 3 types most commonly seen with satellite technology (small to large: are the dipole (portable sat phones), the panel antenna either integrated in the unit (like bgan) or seperate, and most commonly seen the dish antenna. With a dish antenna the dish is actually just a reflector that bounces the radio waves coming from the satellite to a very small antenna that is in the head (sometimes called BUC or LNB) mounted on the dish. 
+
+TODO:
+ * Wider antennas means focusing the power more.
 
 ##### Antenna placement
 point it at the bird and do it precise, do not forget polarization if applicable
@@ -38,7 +42,13 @@ point it at the bird and do it precise, do not forget polarization if applicable
 
 Signal to Noise vs Frequency/Power/Antenna Size
 
-Bandwidth
+##### Distance and Obstacles
+
+TODO:
+ * Water resonance (>2.4GHz), Rain fade.
+ * More noise in high frequencies
+
+##### Bandwidth and Contention
 
 ##### Applications
 
